@@ -1,0 +1,8 @@
+#!markdown
+
+# Powershell
+
+#!pwsh
+
+$whoiam = "I don't now"
+Write-Host $whoiam

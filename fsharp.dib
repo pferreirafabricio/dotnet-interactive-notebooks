@@ -1,0 +1,10 @@
+#!markdown
+
+# Fsharp
+
+#!fsharp
+
+let func name =
+    printfn $"Hi {name}"
+
+func "Pedro"
