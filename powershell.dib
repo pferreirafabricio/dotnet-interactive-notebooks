@@ -4,5 +4,5 @@
 
 #!pwsh
 
-$whoiam = "I don't now"
+$whoiam = "I don't know"
 Write-Host $whoiam
